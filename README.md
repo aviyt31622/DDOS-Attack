@@ -1,6 +1,6 @@
 # DDOS-Attack
-#CODE
-'''bash
+##CODE
+```bash
 import telebot
 import subprocess
 import datetime
@@ -395,4 +395,4 @@ def welcome_start(message):
 
 # Start the bot
 bot.polling()
-'''
+```
