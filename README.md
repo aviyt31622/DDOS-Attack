@@ -395,3 +395,8 @@ def welcome_start(message):
 # Start the bot
 bot.polling()
 ```
+
+
+#NOTE
+
+***Any use of this tool for illegal or unethical activities is strictly prohibited. The authors and contributors are not responsible for any misuse or damage caused by Dark-Phish. Use it responsibly and ensure compliance with all applicable laws and regulations in your jurisdiction
