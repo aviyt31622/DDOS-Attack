@@ -1,5 +1,4 @@
-# DDOS-Attack
-##CODE
+# DDOS-Attack-Code
 ```bash
 import telebot
 import subprocess
